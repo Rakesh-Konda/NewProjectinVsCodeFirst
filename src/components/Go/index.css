@@ -1,0 +1,32 @@
+.p{
+    color: green;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+.green{
+    background-color: green;
+    height: 24px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    border: 0px solid transparent;
+    margin: 10px;
+    cursor: pointer;
+}
+.red{
+    cursor: pointer;
+    background-color: red;
+    height: 24px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    border: 0px solid transparent;
+    margin: 10px;
+}
+.divt{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
